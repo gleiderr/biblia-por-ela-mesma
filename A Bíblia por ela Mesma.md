@@ -11,9 +11,9 @@ toc:
 
 ## Prefácio
 
-Neste projeto de estudo da Bíblia o mínimo de fontes externas é utilizada. A maioria das definições são extraídas da própria Palavra de Deus. As únicas excessões são as traduções e as localizações geográficas.
+Neste projeto de estudo da Bíblia o mínimo de fontes externas é utilizado. Interpretações e referências são literais, concretas e encontram referência dentro da própria Palavra de Deus. As únicas definições que não são extraídas da própria Palavra de Deus são as traduções e as localizações geográficas.
 
-Creio nas revelações pessoais e voltadas para determinado tempo. Porém, as revelações aqui inseridas não são de cunho pessoal, mas sim aquelas encontram referência dentro da própria Palavra de Deus. O propósito desta abordagem é minimizar os riscos de inserção de interpretações incorretas.
+Creio que da Palavra de Deus podem ser extraídas revelações pessoais e voltadas para tempos específicos. Creio que Ela possui textos literais e metafóricos. Tento com isso reduzir os riscos de incorrer interpretações hereges, mas mesmo sim produzir conteúdo que favoreça o estudo, a reflexão e ajudar eu e outras pessoas a receberem interpretações pessoais e temporais por meio do Espírito Santo de Deus.
 
 ## Gênesis
 
@@ -31,13 +31,14 @@ Creio nas revelações pessoais e voltadas para determinado tempo. Porém, as re
 
 ^3^ Todas as coisas foram feitas por intermédio dele; sem ele, nada do que existe teria sido feito. ^4^ Nele estava a vida, e esta era a luz dos homens. ^5^ A luz brilha nas trevas, e as trevas não a derrotaram.
 
-^6^ Surgiu um homem enviado por Deus, chamado João. ^7^ Ele veio como testemunha, para testificar acerca da luz, a fim de que por meio dele todos os homens cressem. ^8^ Ele próprio não era a luz, mas veio como testemunha da luz.
+^6^ Surgiu um homem enviado por Deus, chamado João. ^7^ Ele veio como testemunha, para testificar acerca da luz, a fim de que por meio dele todos os homens cressem. ^8^ Ele próprio não era a luz, mas veio como testemunha da luz. ^9^ Estava chegando ao mundo a verdadeira luz, que ilumina todos os homens.
 
 <!-- Nomes de Deus -->
 
 *[Deus]: aquele que criou os céus e a terra (Gn1.1)
 *[Espírito de Deus]: ele se movia sobre a face das águas (Gn1.2)
 *[Palavra]: aquele que era no princípio, estava com Deus e era Deus (Jo1.1); ele estava com Deus no princípio (Jo1.2); aquele pelo qual todas as coisas foram feitas e sem o qual nada do que existe teria sido feito (Jo1.3); nele estava a vida (Jo1.4)
+*[verdadeira luz]: ilumina todos os homens (Jo1.9)
 
 <!-- Nomes de Pessoas -->
 
@@ -53,6 +54,7 @@ Creio nas revelações pessoais e voltadas para determinado tempo. Porém, as re
 *[luz dos homens]: Era a vida que estava na Palavra (Jo1.4)
 *[terra]: criada por Deus No princípio (Gn1.1). era sem forma e vazia (Gn1.2)
 *[trevas]: cobriam a face do abismo (Gn1.2)
+*[vida]: luz dos homens (Jo1.4)
 
 ## Referências
 
