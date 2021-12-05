@@ -31,7 +31,7 @@ toc:
 
 *[Deus]: aquele que criou os céus e a terra (Gn1.1)
 *[Espírito de Deus]: ele se movia sobre a face das águas (Gn1.2)
-*[Palavra]: aquele que era no princípio, estava com Deus e era Deus (Jo1.1); ele estava com Deus no princípio (Jo1.2); aquele pelo qual todas as coisas foram feitas e sem o qual nada teria sido feito (Jo1.3)
+*[Palavra]: aquele que era no princípio, estava com Deus e era Deus (Jo1.1); ele estava com Deus no princípio (Jo1.2); aquele pelo qual todas as coisas foram feitas e sem o qual nada do que existe teria sido feito (Jo1.3)
 
 *[céus]: criado por Deus No princípio (Gn1.1)
 *[terra]: criada por Deus No princípio (Gn1.1). era sem forma e vazia (Gn1.2)
