@@ -31,7 +31,7 @@ Creio nas revelações pessoais e voltadas para determinado tempo. Porém, as re
 
 ^3^ Todas as coisas foram feitas por intermédio dele; sem ele, nada do que existe teria sido feito. ^4^ Nele estava a vida, e esta era a luz dos homens. ^5^ A luz brilha nas trevas, e as trevas não a derrotaram.
 
-^6^ Surgiu um homem enviado por Deus, chamado João.
+^6^ Surgiu um homem enviado por Deus, chamado João. ^7^ Ele veio como testemunha, para testificar acerca da luz, a fim de que por meio dele todos os homens cressem.
 
 <!-- Nomes de Deus -->
 
@@ -49,6 +49,7 @@ Creio nas revelações pessoais e voltadas para determinado tempo. Porém, as re
 *[abismo]: sua face era coberta por trevas (Gn1.2)
 *[águas]: sobre sua face se movia o Espírito de Deus (Gn1.2)
 *[céus]: criado por Deus No princípio (Gn1.1)
+*[luz]: brilha nas trevas (Jo1.5)
 *[luz dos homens]: Era a vida que estava na Palavra (Jo1.4)
 *[terra]: criada por Deus No princípio (Gn1.1). era sem forma e vazia (Gn1.2)
 *[trevas]: cobriam a face do abismo (Gn1.2)
