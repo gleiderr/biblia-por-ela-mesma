@@ -11,7 +11,7 @@ toc:
 
 ## Prefácio
 
-Projeto de estudo da Bíblia em que o mínimo de fontes externas é utilizada.
+Neste projeto de estudo da Bíblia o mínimo de fontes externas é utilizada. A maioria das definições são extraídas da própria Palavra de Deus. As únicas excessões são as traduções e as localizações geográficas.
 
 Creio nas revelações pessoais e voltadas para determinado tempo. Porém, as revelações aqui inseridas não são de cunho pessoal, mas sim aquelas encontram referência dentro da própria Palavra de Deus. O propósito desta abordagem é minimizar os riscos de inserção de interpretações incorretas.
 
@@ -31,7 +31,7 @@ Creio nas revelações pessoais e voltadas para determinado tempo. Porém, as re
 
 ^3^ Todas as coisas foram feitas por intermédio dele; sem ele, nada do que existe teria sido feito. ^4^ Nele estava a vida, e esta era a luz dos homens. ^5^ A luz brilha nas trevas, e as trevas não a derrotaram.
 
-^6^ Surgiu um homem enviado por Deus, chamado João. ^7^ Ele veio como testemunha, para testificar acerca da luz, a fim de que por meio dele todos os homens cressem.
+^6^ Surgiu um homem enviado por Deus, chamado João. ^7^ Ele veio como testemunha, para testificar acerca da luz, a fim de que por meio dele todos os homens cressem. ^8^ Ele próprio não era a luz, mas veio como testemunha da luz.
 
 <!-- Nomes de Deus -->
 
@@ -41,7 +41,7 @@ Creio nas revelações pessoais e voltadas para determinado tempo. Porém, as re
 
 <!-- Nomes de Pessoas -->
 
-*[João]: Batista: homem enviado por Deus (Jo1.6)
+*[João]: Batista: homem enviado por Deus (Jo1.6); veio para que todos cressem por meio dele (Jo1.7); ele não era a luz (Jo1.8); mas veio para testificar acerca da luz (Jo1.7,8)
 
 <!-- Termos -->
 
