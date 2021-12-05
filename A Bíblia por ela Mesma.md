@@ -1,4 +1,13 @@
+---
+toc:
+  depth_from: 2
+  depth_to: 2
+  ordered: false
+---
+
 # A Bíblia[^nvi] por ela Mesma
+
+[TOC]
 
 ## Gênesis
 
@@ -8,23 +17,25 @@
 
 ^2^ Era a terra sem forma e vazia; trevas cobriam a face do abismo, e o Espírito de Deus se movia sobre a face das águas.
 
+## João
+
+### 1
+
+^1^ No princípio era aquele que é a Palavra. Ele estava com Deus e era Deus.
+
 <!-- Termos -->
 
-*[No princípio]: Segundo Gn1.1: quando Deus criou os céus e a terra.
+*[No princípio]: "tempo" no qual Deus criou os céus e a terra (Gn1.1); "tempo" em que era aquele que é a Palavra (Jo1.1)
 
-*[Deus]: Segundo Gn1.1: aquele que criou os céus e a terra.
+*[Deus]: aquele que criou os céus e a terra (Gn1.1)
+*[Espírito de Deus]: ele se movia sobre a face das águas (Gn1.2)
+*[Palavra]: aquele que era No princípio, estava com Deus e era Deus (Jo1.1)
 
-*[Espírito de Deus]: Segundo Gn1.2: ele se movia sobre a face das águas.
-
-*[céus]: Segundo Gn1.1: criado por Deus No princípio.
-
-*[terra]: Segundo Gn1.1: criada por Deus No princípio. Gn1.2: era sem forma e vazia.
-
-*[trevas]: Segundo Gn1.2: cobriam a face do abismo.
-
-*[abismo]: Segundo Gn1.2: sua face era coberta por trevas.
-
-*[águas]: Segundo Gn1.2: sobre sua face se movia o Espírito de Deus.
+*[céus]: criado por Deus No princípio (Gn1.1)
+*[terra]: criada por Deus No princípio (Gn1.1). era sem forma e vazia (Gn1.2)
+*[trevas]: cobriam a face do abismo (Gn1.2)
+*[abismo]: sua face era coberta por trevas (Gn1.2)
+*[águas]: sobre sua face se movia o Espírito de Deus (Gn1.2)
 
 ## Referências
 
