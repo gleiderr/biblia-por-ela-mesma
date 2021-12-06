@@ -5,13 +5,18 @@ toc:
   ordered: false
 ---
 
-# A Bíblia[^nvi] por ela Mesma
+# A Bíblia por ela Mesma
+___
 
 [TOC]
 
 ## Prefácio
 
 Neste projeto de estudo da Bíblia o mínimo de fontes externas é utilizado. Interpretações e referências são literais, concretas e encontram referência dentro da própria Palavra de Deus. As únicas definições que não são extraídas da própria Palavra de Deus são as traduções e as localizações geográficas.
+
+A fim de evitar diferentes viéses as fontes utilizadas são somente:
+- Bíblia, Nova Versão Internacional (NVI) [^nvi];
+- Concordância Strong [^strong];
 
 Creio que da Palavra de Deus podem ser extraídas revelações pessoais e voltadas para tempos específicos. Creio que Ela possui textos literais e metafóricos. Tento com isso reduzir os riscos de incorrer interpretações hereges, mas mesmo sim produzir conteúdo que favoreça o estudo, a reflexão e ajudar eu e outras pessoas a receberem interpretações pessoais e temporais por meio do Espírito Santo de Deus.
 
@@ -33,11 +38,13 @@ Creio que da Palavra de Deus podem ser extraídas revelações pessoais e voltad
 
 ^6^ Surgiu um homem enviado por Deus, chamado João. ^7^ Ele veio como testemunha, para testificar acerca da luz, a fim de que por meio dele todos os homens cressem. ^8^ Ele próprio não era a luz, mas veio como testemunha da luz. ^9^ Estava chegando ao mundo a verdadeira luz, que ilumina todos os homens.
 
+^10^ Aquele que é a Palavra estava no mundo, e o mundo foi feito por intermédio dele, mas o mundo não o reconheceu.
+
 <!-- Nomes de Deus -->
 
 *[Deus]: aquele que criou os céus e a terra (Gn1.1)
 *[Espírito de Deus]: ele se movia sobre a face das águas (Gn1.2)
-*[Palavra]: aquele que era no princípio, estava com Deus e era Deus (Jo1.1); ele estava com Deus no princípio (Jo1.2); aquele pelo qual todas as coisas foram feitas e sem o qual nada do que existe teria sido feito (Jo1.3); nele estava a vida (Jo1.4)
+*[Palavra]: aquele que era no princípio, estava com Deus e era Deus (Jo1.1); ele estava com Deus no princípio (Jo1.2); aquele pelo qual todas as coisas foram feitas e sem o qual nada do que existe teria sido feito (Jo1.3); nele estava a vida (Jo1.4); o mundo foi feito por intermédio dele, mas o mundo não o reconheceu (Jo1.10)
 *[verdadeira luz]: ilumina todos os homens (Jo1.9)
 
 <!-- Nomes de Pessoas -->
@@ -52,6 +59,7 @@ Creio que da Palavra de Deus podem ser extraídas revelações pessoais e voltad
 *[céus]: criado por Deus No princípio (Gn1.1)
 *[luz]: brilha nas trevas (Jo1.5)
 *[luz dos homens]: Era a vida que estava na Palavra (Jo1.4)
+*[mundo]: feito por intermédio daquele que é a Palavra, mas não o reconheceu (Jo1.10)
 *[terra]: criada por Deus No princípio (Gn1.1). era sem forma e vazia (Gn1.2)
 *[trevas]: cobriam a face do abismo (Gn1.2)
 *[vida]: luz dos homens (Jo1.4)
@@ -59,3 +67,5 @@ Creio que da Palavra de Deus podem ser extraídas revelações pessoais e voltad
 ## Referências
 
 [^nvi]: Nova Versão Internacional, <https://www.biblica.com/bible/nvi-pt/>
+
+[^strong]: Concordância de Strong, <https://biblehub.com/kjvs/genesis/1.htm>
