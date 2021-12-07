@@ -15,7 +15,15 @@ module.exports = {
   },
   onDidParseMarkdown: function (html, { cheerio }) {
     return new Promise((resolve, reject) => {
-      /*html = html.replace(/<abbr title="(.*?)">(.*?)<\/abbr>/g, (match, title, content) => `${content} (${title})`);*/
+      // Transforma <abbr/> em <details/>
+      html = html.replace(
+        /<abbr title="(.+?)">(.+?)<\/abbr>/g,
+        (match, title, text) =>
+          `<details><summary>${text}</summary><span>${title}</span></details>`
+      );
+
+      html = html.replace(/<p>/g, '');
+
       return resolve(html);
     });
   },
