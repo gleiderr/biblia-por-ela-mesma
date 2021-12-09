@@ -1,7 +1,12 @@
-^1^ No princípio era aquele que é a Palavra. Ele estava com Deus e era Deus. ^2^ Ele estava com Deus no princípio.
+# Teste
 
-*[No princípio|no princípio]: "tempo" no qual Deus criou os céus e a terra (Gn1.1); "tempo" em que era aquele que é a Palavra (Jo1.1)
+Esta palavra teste está sublinhada. Teste maiúsculo também. Permitem ser clicados e exibem definição curta na nota lateral.
 
-*[Deus]: aquele que criou os céus e a terra (Gn1.1)
-*[Espírito de Deus]: ele se movia sobre a face das águas (Gn1.2)
-*[Palavra]: aquele que era no princípio, estava com Deus e era Deus (Jo1.1); ele estava com Deus no princípio (Jo1.2)
+Logo abaixo deste parágrafo há o título "Definição Longa". Esta definição longa sublinha os termos equivalentes nesse texto. E seu conteúdo é igual às linhas abaixo da definição.
+
+*[Definição Longa|definição longa]:
+> Esta é uma definição longa.
+> Ela contém esta linha adicional.
+
+*[Teste|teste]: Definição curta.
+
