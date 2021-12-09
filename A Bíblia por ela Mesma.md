@@ -38,14 +38,30 @@ Creio que da Palavra de Deus podem ser extraídas revelações pessoais e voltad
 
 ^6^ Surgiu um homem enviado por Deus, chamado João. ^7^ Ele veio como testemunha, para testificar acerca da luz, a fim de que por meio dele todos os homens cressem. ^8^ Ele próprio não era a luz, mas veio como testemunha da luz. ^9^ Estava chegando ao mundo a verdadeira luz, que ilumina todos os homens.
 
-^10^ Aquele que é a Palavra estava no mundo, e o mundo foi feito por intermédio dele, mas o mundo não o reconheceu.
+^10^ Aquele que é a Palavra estava no mundo, e o mundo foi feito por intermédio dele, mas o mundo não o reconheceu. ^11^ Veio para o que era seu, mas os seus não o receberam.
 
-<!-- Nomes de Deus -->
+___
 
-*[Deus]: aquele que criou os céus e a terra (Gn1.1)
-*[Espírito de Deus]: ele se movia sobre a face das águas (Gn1.2)
-*[Palavra]: aquele que era no princípio, estava com Deus e era Deus (Jo1.1); ele estava com Deus no princípio (Jo1.2); aquele pelo qual todas as coisas foram feitas e sem o qual nada do que existe teria sido feito (Jo1.3); nele estava a vida (Jo1.4); o mundo foi feito por intermédio dele, mas o mundo não o reconheceu (Jo1.10)
-*[verdadeira luz]: ilumina todos os homens (Jo1.9)
+#### Definições
+
+##### Nomes de Deus
+
+*[Deus]:
+> - Aquele que criou os céus e a terra (Gn1.1)
+
+*[Espírito de Deus]:
+> - Ele se movia sobre a face das águas (Gn1.2)
+
+*[Palavra]:
+> - Aquele que era no princípio, estava com Deus e era Deus (Jo1.1)
+> - Ele estava com Deus no princípio (Jo1.2)
+> - Aquele pelo qual todas as coisas foram feitas e sem o qual nada do que existe teria sido feito (Jo1.3)
+> - Nele estava a vida (Jo1.4)
+> - O mundo foi feito por intermédio dele, mas o mundo não o reconheceu (Jo1.10)
+> - Veio para o que era seu, mas os seus não o receberam (Jo1.11)
+
+*[verdadeira luz]:
+> - Ilumina todos os homens (Jo1.9)
 
 <!-- Nomes de Pessoas -->
 
@@ -59,7 +75,7 @@ Creio que da Palavra de Deus podem ser extraídas revelações pessoais e voltad
 *[céus]: criado por Deus No princípio (Gn1.1)
 *[luz]: brilha nas trevas (Jo1.5)
 *[luz dos homens]: Era a vida que estava na Palavra (Jo1.4)
-*[mundo]: feito por intermédio daquele que é a Palavra, mas não o reconheceu (Jo1.10)
+*[mundo]: feito por intermédio daquele que é a Palavra e não reconheceu aquele que é a Palavra (Jo1.10)
 *[terra]: criada por Deus No princípio (Gn1.1). era sem forma e vazia (Gn1.2)
 *[trevas]: cobriam a face do abismo (Gn1.2)
 *[vida]: luz dos homens (Jo1.4)
