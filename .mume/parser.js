@@ -39,24 +39,36 @@ module.exports = {
   },
   onDidParseMarkdown: function (html, { cheerio }) {
     return new Promise((resolve, reject) => {
+      html = html.replace(
+        /<h6([\s\S]*?)><abbr[\s\S]*?>([\s\S]*?)<\/abbr><\/h6>([\s\S]*?<blockquote>[\s\S]*?<\/blockquote>)/g,
+        (match, h6attr, header, rest) => {
+          rest = rest.replace(
+            new RegExp(`<abbr title="${header}">([\\s\\S]*?)</abbr>`),
+            (match, text) => text
+          );
+
+          return `<h6${h6attr}>${header}</h6>${rest}`;
+        }
+      );
+
       // Substitui title de <abbr/> pela definição longa
       const abbr = '<abbr title="(.*?)">(.*?)</abbr>';
       html = html.replace(
         new RegExp(abbr, 'g'),
         (abbrMatch, abbrTitle, abbrContent) => {
-          const definição = `<h6.*?>.*?(${abbrTitle}).*?</h6>[\\s\\S]*?<blockquote>([\\s\\S]*?)</blockquote>`;
-          const found = new RegExp(definição, 'g').exec(html);
-          if (!found) return abbrMatch;
+          const definição = `<h6.*?id="(.*?)".*?>.*?(${abbrTitle}).*?</h6>[\\s\\S]*?<blockquote>([\\s\\S]*?)</blockquote>`;
+          const foundDefinição = new RegExp(definição, 'g').exec(html);
+          if (!foundDefinição) return abbrMatch;
 
-          let [match, header, blockquote] = found;
-          const bkp = blockquote.replace(/</g, '&lt;').replace(/>/g, '&gt;');
+          let [match, id, header, blockquote] = foundDefinição;
 
-          /*blockquote = blockquote.replace(
-            `<abbr title="${header}`,
-            (match, abbrContent) => 'oi'
-          );*/
+          blockquote = `<a href="#${id}">${header}</a><br>` + blockquote;
+
           blockquote = blockquote.replace(/"/g, '&quot;'); //remove aspas duplas
           blockquote = blockquote.replace(/\r?\n/g, ''); //remove novas linhas
+
+          //blockquote = blockquote.replace(/</g, '&lt;').replace(/>/g, '&gt;');
+
           return `<abbr title="${blockquote}">${abbrContent}</abbr>`;
         }
       );
@@ -65,7 +77,10 @@ module.exports = {
       html = html.replace(
         /<abbr title="(.+?)">(.+?)<\/abbr>/g,
         (match, title, text) =>
-          `<details><summary>${text}</summary><span>${title}</span></details>`
+          `<details><summary>${text}</summary><span>${title.replace(
+            /&quot;/g,
+            '"'
+          )}</span></details>`
       );
 
       html = html.replace(/<p>/g, '');
