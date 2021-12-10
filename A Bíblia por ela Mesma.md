@@ -38,7 +38,7 @@ Creio que da Palavra de Deus podem ser extraídas revelações pessoais e voltad
 
 ^6^ Surgiu um homem enviado por Deus, chamado João. ^7^ Ele veio como testemunha, para testificar acerca da luz, a fim de que por meio dele todos os homens cressem. ^8^ Ele próprio não era a luz, mas veio como testemunha da luz. ^9^ Estava chegando ao mundo a verdadeira luz, que ilumina todos os homens.
 
-^10^ Aquele que é a Palavra estava no mundo, e o mundo foi feito por intermédio dele, mas o mundo não o reconheceu. ^11^ Veio para o que era seu, mas os seus não o receberam.
+^10^ Aquele que é a Palavra estava no mundo, e o mundo foi feito por intermédio dele, mas o mundo não o reconheceu. ^11^ Veio para o que era seu, mas os seus não o receberam. ^12^ Contudo, aos que o receberam, aos que creram em seu nome, deu-lhes o direito de se tornarem filhos de Deus,
 
 ___
 
@@ -60,14 +60,14 @@ ___
 > - O mundo foi feito por intermédio dele, mas o mundo não o reconheceu (Jo1.10)
 > - Veio para o que era seu, mas os seus não o receberam (Jo1.11)
 
-*[verdadeira luz]:
+*[Verdadeira luz|verdadeira luz]:
 > - Ilumina todos os homens (Jo1.9)
 
 <!-- Nomes de Pessoas -->
 
 *[João]: Batista: homem enviado por Deus (Jo1.6); veio para que todos cressem por meio dele (Jo1.7); ele não era a luz (Jo1.8); mas veio para testificar acerca da luz (Jo1.7,8)
 
-<!-- Termos -->
+##### Termos
 
 *[No princípio|no princípio]: "tempo" no qual Deus criou os céus e a terra (Gn1.1); "tempo" em que era aquele que é a Palavra (Jo1.1)
 *[abismo]: sua face era coberta por trevas (Gn1.2)
@@ -79,6 +79,11 @@ ___
 *[terra]: criada por Deus No princípio (Gn1.1). era sem forma e vazia (Gn1.2)
 *[trevas]: cobriam a face do abismo (Gn1.2)
 *[vida]: luz dos homens (Jo1.4)
+
+*[Filhos de Deus|filhos de Deus]:
+> - Receberam aquele que é a Palavra (Jo1.12)
+> - Creram naquele que é a Palavra (Jo1.12)
+> - Ganharam o direito de se tornarem filhos de Deus (Jo1.12)
 
 ## Referências
 
