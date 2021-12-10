@@ -40,11 +40,16 @@ Creio que da Palavra de Deus podem ser extraídas revelações pessoais e voltad
 
 ^10^ Aquele que é a Palavra estava no mundo, e o mundo foi feito por intermédio dele, mas o mundo não o reconheceu. ^11^ Veio para o que era seu, mas os seus não o receberam. ^12^ Contudo, aos que o receberam, aos que creram em seu nome, deu-lhes o direito de se tornarem filhos de Deus,
 
+## Lucas
+
+### 3
+
+^21^ Quando todo o povo estava sendo batizado, também Jesus o foi. E, enquanto ele estava orando, o céu se abriu
 ___
 
-#### Definições
+## Fatos e Definições
 
-##### Nomes de Deus
+### Nomes de Deus
 
 *[Deus]:
 > - Aquele que criou os céus e a terra (Gn1.1)
@@ -63,15 +68,20 @@ ___
 *[Verdadeira luz|verdadeira luz]:
 > - Ilumina todos os homens (Jo1.9)
 
-<!-- Nomes de Pessoas -->
+*[Jesus]:
+> - Foi batizado quando todo o povo estava sendo (Lc3.21)
+> - O ceu se abriu enquanto ele estava orando (Lc3.21)
+
+### Pessoas
 
 *[João]: Batista: homem enviado por Deus (Jo1.6); veio para que todos cressem por meio dele (Jo1.7); ele não era a luz (Jo1.8); mas veio para testificar acerca da luz (Jo1.7,8)
 
-##### Termos
+### Termos
 
 *[No princípio|no princípio]: "tempo" no qual Deus criou os céus e a terra (Gn1.1); "tempo" em que era aquele que é a Palavra (Jo1.1)
 *[abismo]: sua face era coberta por trevas (Gn1.2)
 *[águas]: sobre sua face se movia o Espírito de Deus (Gn1.2)
+*[céu]: Se abriu enquanto Jesus estava orando (Lc3.21)
 *[céus]: criado por Deus No princípio (Gn1.1)
 *[luz]: brilha nas trevas (Jo1.5)
 *[luz dos homens]: Era a vida que estava na Palavra (Jo1.4)
