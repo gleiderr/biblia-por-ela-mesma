@@ -139,6 +139,88 @@ gantt
 > - Creram naquele que é a Palavra (Jo1.12)
 > - Ganharam o direito de se tornarem filhos de Deus (Jo1.12)
 
+### Genealogia
+```mermaid
+flowchart TD
+%% Lucas, Capítulo 3, Versículo 23 até 38:
+  José_3[José] -.->|Considerado pai de|Jesus
+  Eli --> José_3
+  Matate_2[Matate] --> Eli
+  Levi_2[Levi] --> Matate_2
+  Melqui_2[Melqui] --> Levi_2
+  Janai --> Melqui_2
+  José_2[José] --> Janai
+  Matatias_2[Matatias] --> José_2
+  Amós --> Matatias_2
+  Naum --> Amós
+  Esli --> Naum
+  Nagai --> Esli
+  Máate --> Nagai
+  Matatias_1[Matatias] --> Máate
+  Semei --> Matatias_1
+  Joseque --> Semei
+  Jodá --> Joseque
+  Joanã --> Jodá
+  Ressa --> Joanã
+  Zorobabel --> Ressa
+  Salatiel --> Zorobabel
+  Neri --> Salatiel
+  Melqui_1[Melqui] --> Neri
+  Adi --> Melqui_1
+  Cosã --> Adi
+  Elmadã --> Cosã
+  Er --> Elmadã
+  Josué --> Er
+  Eliézer --> Josué
+  Jorim --> Eliézer
+  Matate_1[Matate] --> Jorim
+  Levi_1[Levi] --> Matate_1
+  Simeão --> Levi_1
+  Judá_2[Judá] --> Simeão
+  José_1[José] --> Judá_2
+  Jonã --> José_1
+  Eliaquim --> Jonã
+  Meleá --> Eliaquim
+  Mená --> Meleá
+  Matatá --> Mená
+  Natã --> Matatá
+  Davi --> Natã
+  Jessé --> Davi
+  Obede --> Jessé
+  Boaz --> Obede
+  Salmom --> Boaz
+  Naassom --> Salmom
+  Aminadabe --> Naassom
+  Ram --> Aminadabe
+  Esrom --> Ram
+  Perez --> Esrom
+  Judá_1[Judá] --> Perez
+  Jacó --> Judá_1
+  Isaque --> Jacó
+  Abraão --> Isaque
+  Terá --> Abraão
+  Naor --> Terá
+  Serugue --> Naor
+  Ragaú --> Serugue
+  Faleque --> Ragaú
+  Éber --> Faleque
+  Salá --> Éber
+  Cainã_2[Cainã] --> Salá
+  Arfaxade --> Cainã_2
+  Sem --> Arfaxade
+  Noé --> Sem
+  Lameque --> Noé
+  Matusalém --> Lameque
+  Enoque --> Matusalém
+  Jarede --> Enoque
+  Maalaleel --> Jarede
+  Cainã_1[Cainã] --> Maalaleel
+  Enos --> Cainã_1
+  Sete --> Enos
+  Adão --> Sete
+  Deus --> Adão
+```
+
 ## Referências
 
 [^nvi]: Nova Versão Internacional, <https://www.biblica.com/bible/nvi-pt/>
