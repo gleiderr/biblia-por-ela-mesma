@@ -44,7 +44,7 @@ Creio que da Palavra de Deus podem ser extraídas revelações pessoais e voltad
 
 ### 3
 
-^21^ Quando todo o povo estava sendo batizado, também Jesus o foi. E, enquanto ele estava orando, o céu se abriu
+^21^ Quando todo o povo estava sendo batizado, também Jesus o foi. E, enquanto ele estava orando, o céu se abriu ^22^ e o Espírito Santo desceu sobre ele em forma corpórea, como pomba. Então veio do céu uma voz: “Tu és o meu Filho amado; em ti me agrado”.
 ___
 
 ## Fatos e Definições
@@ -56,6 +56,9 @@ ___
 
 *[Espírito de Deus]:
 > - Ele se movia sobre a face das águas (Gn1.2)
+
+*[Espírito Santo]:
+> - Desceu sobre Jesus em forma corpórea, como pomba (Lc3.22)
 
 *[Palavra]:
 > - Aquele que era no princípio, estava com Deus e era Deus (Jo1.1)
@@ -72,6 +75,10 @@ ___
 > - Foi batizado quando todo o povo estava sendo (Lc3.21)
 > - O ceu se abriu enquanto ele estava orando (Lc3.21)
 
+*[Filho amado]:
+> - Jesus é o Filho amado daquele cuja voz veio do céu (Lc3.22)
+> - Aquele cuja voz veio do céu se agrada do Filho amado (Lc3.22)
+
 ### Pessoas
 
 *[João]: Batista: homem enviado por Deus (Jo1.6); veio para que todos cressem por meio dele (Jo1.7); ele não era a luz (Jo1.8); mas veio para testificar acerca da luz (Jo1.7,8)
@@ -81,7 +88,11 @@ ___
 *[No princípio|no princípio]: "tempo" no qual Deus criou os céus e a terra (Gn1.1); "tempo" em que era aquele que é a Palavra (Jo1.1)
 *[abismo]: sua face era coberta por trevas (Gn1.2)
 *[águas]: sobre sua face se movia o Espírito de Deus (Gn1.2)
-*[céu]: Se abriu enquanto Jesus estava orando (Lc3.21)
+
+*[Céu|céu]:
+> - Se abriu enquanto Jesus estava orando (Lc3.21)
+> - Veio do céu uma voz: “Tu és o meu Filho amado; em ti me agrado” (Lc3.22)
+
 *[céus]: criado por Deus No princípio (Gn1.1)
 *[luz]: brilha nas trevas (Jo1.5)
 *[luz dos homens]: Era a vida que estava na Palavra (Jo1.4)
@@ -89,6 +100,9 @@ ___
 *[terra]: criada por Deus No princípio (Gn1.1). era sem forma e vazia (Gn1.2)
 *[trevas]: cobriam a face do abismo (Gn1.2)
 *[vida]: luz dos homens (Jo1.4)
+
+*[Pomba|pomba]:
+> - Como pomba, o Espírito Santo desceu sobre Jesus em forma corpórea (Lc3.22)
 
 *[Filhos de Deus|filhos de Deus]:
 > - Receberam aquele que é a Palavra (Jo1.12)
