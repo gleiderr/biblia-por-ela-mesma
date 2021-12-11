@@ -45,6 +45,14 @@ Creio que da Palavra de Deus podem ser extraídas revelações pessoais e voltad
 ### 3
 
 ^21^ Quando todo o povo estava sendo batizado, também Jesus o foi. E, enquanto ele estava orando, o céu se abriu ^22^ e o Espírito Santo desceu sobre ele em forma corpórea, como pomba. Então veio do céu uma voz: “Tu és o meu Filho amado; em ti me agrado”.
+
+^23^ Jesus tinha cerca de trinta anos de idade quando começou seu ministério. Ele era considerado filho de José,
+
+filho de Eli,
+
+
+
+
 ___
 
 ## Fatos e Definições
@@ -74,6 +82,17 @@ ___
 *[Jesus]:
 > - Foi batizado quando todo o povo estava sendo (Lc3.21)
 > - O ceu se abriu enquanto ele estava orando (Lc3.21)
+> - Tinha cerca de trinta anos de idade quando começou seu ministério (Lc3.23)
+> - Era considerado filho de José (Lc3.23)
+
+```mermaid
+gantt
+  dateFormat  DD/MM/YYYY
+  axisFormat  %Y
+
+  Nascimento         :milestone, m1, 01/01/0001, 0min
+  Início ministério  :milestone, m2, 01/01/0031,
+```
 
 *[Filho amado]:
 > - Jesus é o Filho amado daquele cuja voz veio do céu (Lc3.22)
@@ -82,6 +101,13 @@ ___
 ### Pessoas
 
 *[João]: Batista: homem enviado por Deus (Jo1.6); veio para que todos cressem por meio dele (Jo1.7); ele não era a luz (Jo1.8); mas veio para testificar acerca da luz (Jo1.7,8)
+
+*[José]:
+> - Filho de Eli (Lc3.23)
+> - Considerado pai de Jesus (Lc3.23)
+
+*[Eli]:
+> - Pai de José (Lc3.23)
 
 ### Termos
 
@@ -96,6 +122,10 @@ ___
 *[céus]: criado por Deus No princípio (Gn1.1)
 *[luz]: brilha nas trevas (Jo1.5)
 *[luz dos homens]: Era a vida que estava na Palavra (Jo1.4)
+
+*[ministério]:
+> - O de Jesus começou quando ele tinha cerca de trinta anos (Lc3.23)
+
 *[mundo]: feito por intermédio daquele que é a Palavra e não reconheceu aquele que é a Palavra (Jo1.10)
 *[terra]: criada por Deus No princípio (Gn1.1). era sem forma e vazia (Gn1.2)
 *[trevas]: cobriam a face do abismo (Gn1.2)
