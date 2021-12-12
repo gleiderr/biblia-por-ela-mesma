@@ -142,9 +142,9 @@ gantt
 ### Genealogia
 ```mermaid
 flowchart TD
-%% Lucas, Capítulo 3, Versículo 23 até 38:
-  José_3[José] -.->|Considerado pai de|Jesus
-  Eli --> José_3
+  José_3[José]      -.->  |Considerado pai de|Jesus %% Lc3.23
+  Eli               -->   José_3                    %% Lc3.23
+  %% Lucas, Capítulo 3, Versículo 24 até 38:
   Matate_2[Matate] --> Eli
   Levi_2[Levi] --> Matate_2
   Melqui_2[Melqui] --> Levi_2
