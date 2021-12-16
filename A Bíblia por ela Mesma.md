@@ -50,7 +50,10 @@ Creio que da Palavra de Deus podem ser extraídas revelações pessoais e voltad
 
 filho de Eli, ^24^ filho de Matate,
 filho de Levi, filho de Melqui,
-filho de Janai, filho de *[José](José, pai de Janai),
+filho de Janai, filho de *[José](José, filho de Matatias),
+^25^ filho de Matatias, filho de Amós,
+filho de Naum, filho de Esli,
+filho de Nagai,
 
 ___
 
@@ -99,9 +102,17 @@ gantt
 
 ### Pessoas
 
+*[Amós]:
+> - Filho de Naum (Lc3.25)
+> - Pai de Matatias (Lc3.25)
+
 *[Eli]:
 > - Filho de Matate (Lc3.24)
 > - Pai de José (Lc3.23)
+
+*[Esli]:
+> - Filho de Nagai (Lc3.25)
+> - Pai de Naum (Lc3.25)
 
 *[Janai]:
 > - Filho de *[José](José, pai de Janai) (Lc3.24)
@@ -113,7 +124,8 @@ gantt
 > - Filho de Eli (Lc3.23)
 > - Considerado pai de Jesus (Lc3.23)
 
-*[José, pai de Janai]:
+*[José, filho de Matatias]:
+> - Filho de Matatias (Lc3.25)
 > - Pai de Janai (Lc3.24)
 
 *[Levi]:
@@ -124,9 +136,20 @@ gantt
 > - Filho de Levi (Lc3.24)
 > - Pai de Eli (Lc3.24)
 
+*[Matatias]:
+> - Filho de Amós (Lc3.25)
+> - Pai de *[José]() (Lc3.25)
+
 *[Melqui]:
 > - Filho de Janai (Lc3.24)
 > - Pai de Levi (Lc3.24)
+
+*[Nagai]:
+> - Pai de Esli (Lc3.25)
+
+*[Naum]:
+> - Filho de Esli (Lc3.25)
+> - Pai de Amós (Lc3.25)
 
 ### Termos
 
@@ -168,12 +191,12 @@ flowchart TD
   Melqui_2[Melqui] --> Levi_2                       %% Lc3.24
   Janai --> Melqui_2                                %% Lc3.24
   José_2[José] --> Janai                            %% Lc3.24
-  %% Lucas, Capítulo 3, Versículo 25 até 38:
-  Matatias_2[Matatias] --> José_2
-  Amós --> Matatias_2
-  Naum --> Amós
-  Esli --> Naum
-  Nagai --> Esli
+  Matatias_2[Matatias] --> José_2                   %% Lc3.25
+  Amós --> Matatias_2                               %% Lc3.25
+  Naum --> Amós                                     %% Lc3.25
+  Esli --> Naum                                     %% Lc3.25
+  Nagai --> Esli                                    %% Lc3.25
+  %% Lucas, Capítulo 3, Versículo 26 até 38:
   Máate --> Nagai
   Matatias_1[Matatias] --> Máate
   Semei --> Matatias_1
