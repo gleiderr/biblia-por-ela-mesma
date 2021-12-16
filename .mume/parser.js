@@ -1,6 +1,10 @@
 module.exports = {
   onWillParseMarkdown: function (markdown) {
     return new Promise((resolve, reject) => {
+      markdown = markdown.replace(/\*\[(.*?)\]\((.*?)\)/g, (_, text, title) => {
+        return `<abbr title="${title}">${text}</abbr>`;
+      });
+
       const defAbbrInit = '\\*\\[(.*?)]:';
       const defAbbrVazio = defAbbrInit + '\\s*?\\n';
       const lines = '(?:>.*?\\s*?\\n)+';
