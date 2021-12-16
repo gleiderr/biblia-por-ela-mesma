@@ -163,12 +163,12 @@ gantt
 flowchart TD
   José_3[José]      -.->  |Considerado pai de|Jesus %% Lc3.23
   Eli               -->   José_3                    %% Lc3.23
-  %% Lucas, Capítulo 3, Versículo 24 até 38:
-  Matate_2[Matate] --> Eli
-  Levi_2[Levi] --> Matate_2
-  Melqui_2[Melqui] --> Levi_2
-  Janai --> Melqui_2
-  José_2[José] --> Janai
+  Matate_2[Matate] --> Eli                          %% Lc3.24
+  Levi_2[Levi] --> Matate_2                         %% Lc3.24
+  Melqui_2[Melqui] --> Levi_2                       %% Lc3.24
+  Janai --> Melqui_2                                %% Lc3.24
+  José_2[José] --> Janai                            %% Lc3.24
+  %% Lucas, Capítulo 3, Versículo 25 até 38:
   Matatias_2[Matatias] --> José_2
   Amós --> Matatias_2
   Naum --> Amós
