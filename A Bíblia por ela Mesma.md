@@ -48,10 +48,9 @@ Creio que da Palavra de Deus podem ser extraídas revelações pessoais e voltad
 
 ^23^ Jesus tinha cerca de trinta anos de idade quando começou seu ministério. Ele era considerado filho de José,
 
-filho de Eli,
-
-
-
+filho de Eli, ^24^ filho de Matate,
+filho de Levi, filho de Melqui,
+filho de Janai, filho de *[José](José, pai de Janai),
 
 ___
 
@@ -100,14 +99,34 @@ gantt
 
 ### Pessoas
 
+*[Eli]:
+> - Filho de Matate (Lc3.24)
+> - Pai de José (Lc3.23)
+
+*[Janai]:
+> - Filho de *[José](José, pai de Janai) (Lc3.24)
+> - Pai de Melqui (Lc3.24)
+
 *[João]: Batista: homem enviado por Deus (Jo1.6); veio para que todos cressem por meio dele (Jo1.7); ele não era a luz (Jo1.8); mas veio para testificar acerca da luz (Jo1.7,8)
 
-*[José]:
+*[José, considerado pai de Jesus|José]:
 > - Filho de Eli (Lc3.23)
 > - Considerado pai de Jesus (Lc3.23)
 
-*[Eli]:
-> - Pai de José (Lc3.23)
+*[José, pai de Janai]:
+> - Pai de Janai (Lc3.24)
+
+*[Levi]:
+> - Filho de Melqui (Lc3.24)
+> - Pai de Matate (Lc3.24)
+
+*[Matate]:
+> - Filho de Levi (Lc3.24)
+> - Pai de Eli (Lc3.24)
+
+*[Melqui]:
+> - Filho de Janai (Lc3.24)
+> - Pai de Levi (Lc3.24)
 
 ### Termos
 
