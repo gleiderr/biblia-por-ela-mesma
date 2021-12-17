@@ -53,7 +53,9 @@ filho de Levi, filho de Melqui,
 filho de Janai, filho de *[José](José, filho de Matatias),
 ^25^ filho de Matatias, filho de Amós,
 filho de Naum, filho de Esli,
-filho de Nagai,
+filho de Nagai, ^26^ filho de Máate,
+filho de *[Matatias](Matatias, filho de Semei), filho de Semei,
+filho de Joseque, filho de Jodá,
 
 ___
 
@@ -102,6 +104,8 @@ gantt
 
 ### Pessoas
 
+##### A-I
+
 *[Amós]:
 > - Filho de Naum (Lc3.25)
 > - Pai de Matatias (Lc3.25)
@@ -114,11 +118,16 @@ gantt
 > - Filho de Nagai (Lc3.25)
 > - Pai de Naum (Lc3.25)
 
+##### J
+
 *[Janai]:
 > - Filho de *[José](José, pai de Janai) (Lc3.24)
 > - Pai de Melqui (Lc3.24)
 
 *[João]: Batista: homem enviado por Deus (Jo1.6); veio para que todos cressem por meio dele (Jo1.7); ele não era a luz (Jo1.8); mas veio para testificar acerca da luz (Jo1.7,8)
+
+*[Jodá]:
+> - Pai de Joseque (Lc3.26)
 
 *[José, considerado pai de Jesus|José]:
 > - Filho de Eli (Lc3.23)
@@ -128,9 +137,19 @@ gantt
 > - Filho de Matatias (Lc3.25)
 > - Pai de Janai (Lc3.24)
 
+*[Joseque]:
+> - Filho de Jodá (Lc3.26)
+> - Pai de Semei (Lc3.26)
+
 *[Levi]:
 > - Filho de Melqui (Lc3.24)
 > - Pai de Matate (Lc3.24)
+
+##### M
+
+*[Máate]:
+> - Filho de Matatias (Lc3.26)
+> - Pai de Nagai (Lc3.26)
 
 *[Matate]:
 > - Filho de Levi (Lc3.24)
@@ -140,16 +159,27 @@ gantt
 > - Filho de Amós (Lc3.25)
 > - Pai de *[José]() (Lc3.25)
 
+*[Matatias, filho de Semei]:
+> - Filho de Semei (Lc3.26)
+> - Pai de Máate (Lc3.26)
+
 *[Melqui]:
 > - Filho de Janai (Lc3.24)
 > - Pai de Levi (Lc3.24)
 
+##### N-Z
+
 *[Nagai]:
+> - Filho de Máate (Lc3.26)
 > - Pai de Esli (Lc3.25)
 
 *[Naum]:
 > - Filho de Esli (Lc3.25)
 > - Pai de Amós (Lc3.25)
+
+*[Semei]:
+> - Filho de Joseque (Lc3.26)
+> - Pai de Matatias (Lc3.26)
 
 ### Termos
 
@@ -196,12 +226,12 @@ flowchart TD
   Naum --> Amós                                     %% Lc3.25
   Esli --> Naum                                     %% Lc3.25
   Nagai --> Esli                                    %% Lc3.25
-  %% Lucas, Capítulo 3, Versículo 26 até 38:
-  Máate --> Nagai
-  Matatias_1[Matatias] --> Máate
-  Semei --> Matatias_1
-  Joseque --> Semei
-  Jodá --> Joseque
+  Máate --> Nagai                                   %% Lc3.26
+  Matatias_1[Matatias] --> Máate                    %% Lc3.26
+  Semei --> Matatias_1                              %% Lc3.26
+  Joseque --> Semei                                 %% Lc3.26
+  Jodá --> Joseque                                  %% Lc3.26
+  %% Lucas, Capítulo 3, Versículo 27 até 38:
   Joanã --> Jodá
   Ressa --> Joanã
   Zorobabel --> Ressa
