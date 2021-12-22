@@ -1,8 +1,52 @@
-
 /* Please visit the URL below for more information: */
 /*   https://shd101wyy.github.io/markdown-preview-enhanced/#/customize-css */
 
-.markdown-preview.markdown-preview {
+.markdown-preview {
   // modify your style here
   // eg: background-color: blue;
+
+  > * {
+    max-width: 80%;
+  }
+
+  details summary {
+    cursor: pointer;
+  }
+
+  details summary > * {
+    display: inline;
+  }
+
+  details {
+    display: contents;
+  }
+
+  summary {
+    display: inline;
+    text-decoration: underline dotted;
+  }
+
+  details > span {
+    float: right;
+    clear: right;
+    width: 175px;
+    border-right: 1px solid rgb(187, 187, 187);
+    margin: 4px 0px 4px 4px;
+    font-size: small;
+  }
+
+  .sidenote {
+    float: right;
+    clear: right;
+    width: 175px;
+    //border: 1px solid rgb(187, 187, 187);
+    margin: 0px 0px 8px 2px;
+    font-size: small;
+    padding: 4px;
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+  }
+
+  svg {
+    height: auto;
+  }
 }
