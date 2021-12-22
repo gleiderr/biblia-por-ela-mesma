@@ -56,6 +56,9 @@ filho de Naum, filho de Esli,
 filho de Nagai, ^26^ filho de Máate,
 filho de *[Matatias](Matatias, filho de Semei), filho de Semei,
 filho de Joseque, filho de Jodá,
+^27^ filho de Joanã, filho de Ressa,
+filho de Zorobabel, filho de Salatiel,
+filho de Neri,
 
 ___
 
@@ -126,7 +129,12 @@ gantt
 
 *[João]: Batista: homem enviado por Deus (Jo1.6); veio para que todos cressem por meio dele (Jo1.7); ele não era a luz (Jo1.8); mas veio para testificar acerca da luz (Jo1.7,8)
 
+###### Joanã
+> - Filho de Ressa (Lc3.27)
+> - Pai de Jodá (Lc3.27)
+
 *[Jodá]:
+> - Filho de Joanã (Lc3.27)
 > - Pai de Joseque (Lc3.26)
 
 *[José, considerado pai de Jesus|José]:
@@ -177,9 +185,24 @@ gantt
 > - Filho de Esli (Lc3.25)
 > - Pai de Amós (Lc3.25)
 
+###### Neri
+> - Pai de Salatiel (Lc3.27)
+
+###### Ressa
+> - Filho de Zorobabel (Lc3.27)
+> - Pai de Joanã (Lc3.27)
+
+###### Salatiel
+> - Filho de Neri (Lc3.27)
+> - Pai de Zorobabel (Lc3.27)
+
 *[Semei]:
 > - Filho de Joseque (Lc3.26)
 > - Pai de Matatias (Lc3.26)
+
+###### Zorobabel
+> - Filho de Salatiel (Lc3.27)
+> - Pai de Ressa (Lc3.27)
 
 ### Termos
 
@@ -231,12 +254,12 @@ flowchart TD
   Semei --> Matatias_1                              %% Lc3.26
   Joseque --> Semei                                 %% Lc3.26
   Jodá --> Joseque                                  %% Lc3.26
-  %% Lucas, Capítulo 3, Versículo 27 até 38:
-  Joanã --> Jodá
-  Ressa --> Joanã
-  Zorobabel --> Ressa
-  Salatiel --> Zorobabel
-  Neri --> Salatiel
+  Joanã --> Jodá                                    %% Lc3.27
+  Ressa --> Joanã                                   %% Lc3.27
+  Zorobabel --> Ressa                               %% Lc3.27
+  Salatiel --> Zorobabel                            %% Lc3.27
+  Neri --> Salatiel                                 %% Lc3.27
+  %% Lucas, Capítulo 3, Versículo 28 até 38:
   Melqui_1[Melqui] --> Neri
   Adi --> Melqui_1
   Cosã --> Adi
