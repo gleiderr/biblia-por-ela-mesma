@@ -1,13 +1,14 @@
 module.exports = {
   onWillParseMarkdown: function (markdown) {
     return new Promise((resolve, reject) => {
-      markdown = markdown.replace(/\*\[(.*?)\]\((.*?)\)/g, (_, text, title) => {
-        return `<abbr title="${title}">${text}</abbr>`;
-      });
+      markdown = markdown.replace(
+        /\*\[(.+)\]\((.+)\)/g,
+        (match, text, title) => `<abbr title="${title}">${text}</abbr>`
+      );
 
       const defAbbrInit = '\\*\\[(.*?)]:';
       const defAbbrVazio = defAbbrInit + '\\s*?\\n';
-      const lines = '(?:>.*?\\s*?\\n)+';
+      const lines = '(?:>.*?(?:\\s*?\\n|$))+';
       const defAbbrMultiLines = defAbbrVazio + `(${lines})`;
       const regex = new RegExp(defAbbrMultiLines, 'g');
 
@@ -24,8 +25,9 @@ module.exports = {
        */
       markdown = markdown.replace(regex, (match, term, lines) => {
         const title = term.split('|')[0];
+
         const header = `###### ${title}`;
-        const abbr = `*[${term}]: ${title}`;
+        const abbr = `*[${term}|${title}]: ${title}`;
         return `${abbr}\n\n${header}\n\n${lines}`;
       });
 
@@ -43,12 +45,25 @@ module.exports = {
   },
   onDidParseMarkdown: function (html, { cheerio }) {
     return new Promise((resolve, reject) => {
+      //Remove abbr de anchors
+      html = html.replace(
+        /<a\s(.*?)>(.*?<abbr.*?<\/abbr>.*?)<\/a>/g,
+        (_, aAttr, content) => {
+          content = content.replace(
+            /<abbr.*?>(.*?)<\/abbr>/g,
+            (_, text) => text
+          );
+          return `<a ${aAttr}>${content}</a>`;
+        }
+      );
+
+      //Remove auto referências
       html = html.replace(
         /<h6([\s\S]*?)><abbr[\s\S]*?>([\s\S]*?)<\/abbr><\/h6>([\s\S]*?<blockquote>[\s\S]*?<\/blockquote>)/g,
-        (match, h6attr, header, rest) => {
+        (_, h6attr, header, rest) => {
           rest = rest.replace(
-            new RegExp(`<abbr title="${header}">([\\s\\S]*?)</abbr>`),
-            (match, text) => text
+            new RegExp(`<abbr title="${header}">([\\s\\S]*?)</abbr>`, 'g'),
+            (_, text) => text
           );
 
           return `<h6${h6attr}>${header}</h6>${rest}`;
@@ -88,6 +103,14 @@ module.exports = {
       );
 
       html = html.replace(/<p>/g, '');
+
+      html = html.replace(
+        /{{(.*?)&gt;(?:<br>|\s|\r)*?(\S[\s\S]*?)}}/g,
+        (_, ref, text) => {
+          text = text.replace(/<br>/g, '');
+          return `<sup>${ref}</sup><span class="sidenote"><sup>${ref}</sup> ${text}</span>`;
+        }
+      );
 
       return resolve(html);
     });
