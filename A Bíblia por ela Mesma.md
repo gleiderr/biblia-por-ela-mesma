@@ -58,7 +58,9 @@ filho de *[Matatias](Matatias, filho de Semei), filho de Semei,
 filho de Joseque, filho de Jodá,
 ^27^ filho de Joanã, filho de Ressa,
 filho de Zorobabel, filho de Salatiel,
-filho de Neri,
+filho de Neri, ^28^ filho de Melqui,
+filho de Adi, filho de Cosã,
+filho de Elmadã, filho de Er,
 
 ___
 
@@ -109,9 +111,17 @@ gantt
 
 ##### A-I
 
+###### Adi
+- Filho de Cosã (Lc3.28)
+- Pai de Melqui (Lc3.28)
+
 *[Amós]:
 > - Filho de Naum (Lc3.25)
 > - Pai de Matatias (Lc3.25)
+
+###### Cosã
+- Filho de Elmadã (Lc3.28)
+- Pai de Adi (Lc3.28)
 
 *[Eli]:
 > - Filho de Matate (Lc3.24)
@@ -120,6 +130,13 @@ gantt
 *[Esli]:
 > - Filho de Nagai (Lc3.25)
 > - Pai de Naum (Lc3.25)
+
+###### Elmadã
+- Filho de Er (Lc3.28)
+- Pai de Cosã (Lc3.28)
+
+###### Er
+- Pai de Elmadã (Lc3.28)
 
 ##### J
 
@@ -171,7 +188,11 @@ gantt
 > - Filho de Semei (Lc3.26)
 > - Pai de Máate (Lc3.26)
 
-*[Melqui]:
+###### Melqui, filho de Adi
+> - Filho de Adi (Lc3.28)
+> - Pai de Neri (Lc3.28)
+
+###### Melqui, filho de Janai
 > - Filho de Janai (Lc3.24)
 > - Pai de Levi (Lc3.24)
 
@@ -186,23 +207,24 @@ gantt
 > - Pai de Amós (Lc3.25)
 
 ###### Neri
-> - Pai de Salatiel (Lc3.27)
+- Filho de Melqui (Lc3.28)
+- Pai de Salatiel (Lc3.27)
 
 ###### Ressa
-> - Filho de Zorobabel (Lc3.27)
-> - Pai de Joanã (Lc3.27)
+- Filho de Zorobabel (Lc3.27)
+- Pai de Joanã (Lc3.27)
 
 ###### Salatiel
-> - Filho de Neri (Lc3.27)
-> - Pai de Zorobabel (Lc3.27)
+- Filho de Neri (Lc3.27)
+- Pai de Zorobabel (Lc3.27)
 
 *[Semei]:
 > - Filho de Joseque (Lc3.26)
 > - Pai de Matatias (Lc3.26)
 
 ###### Zorobabel
-> - Filho de Salatiel (Lc3.27)
-> - Pai de Ressa (Lc3.27)
+- Filho de Salatiel (Lc3.27)
+- Pai de Ressa (Lc3.27)
 
 ### Termos
 
@@ -259,12 +281,12 @@ flowchart TD
   Zorobabel --> Ressa                               %% Lc3.27
   Salatiel --> Zorobabel                            %% Lc3.27
   Neri --> Salatiel                                 %% Lc3.27
-  %% Lucas, Capítulo 3, Versículo 28 até 38:
-  Melqui_1[Melqui] --> Neri
-  Adi --> Melqui_1
-  Cosã --> Adi
-  Elmadã --> Cosã
-  Er --> Elmadã
+  Melqui_1[Melqui] --> Neri                         %% Lc3.28
+  Adi --> Melqui_1                                  %% Lc3.28
+  Cosã --> Adi                                      %% Lc3.28
+  Elmadã --> Cosã                                   %% Lc3.28
+  Er --> Elmadã                                     %% Lc3.28
+  %% Lucas, Capítulo 3, Versículo 29 até 38:
   Josué --> Er
   Eliézer --> Josué
   Jorim --> Eliézer
